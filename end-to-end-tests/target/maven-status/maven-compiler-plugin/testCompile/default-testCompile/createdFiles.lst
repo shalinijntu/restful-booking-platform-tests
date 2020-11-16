@@ -1,0 +1,5 @@
+DeleteEntryTest.class
+TestSetup.class
+CreateEntryTest.class
+CreateMultipleEntriesTest.class
+SmokeTest.class

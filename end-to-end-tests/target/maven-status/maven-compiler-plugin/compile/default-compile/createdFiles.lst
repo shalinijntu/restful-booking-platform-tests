@@ -1,0 +1,14 @@
+driverfactory\DriverFactory.class
+pageobjects\RoomListingPage.class
+models\Booking.class
+models\MessagePage.class
+pageobjects\BasePage.class
+pageobjects\BrandingPage.class
+pageobjects\SearchPage.class
+pageobjects\HomePage.class
+models\Contact.class
+pageobjects\ReportPage.class
+pageobjects\LoginPage.class
+pageobjects\RoomPage.class
+models\Room.class
+pageobjects\NavPage.class
